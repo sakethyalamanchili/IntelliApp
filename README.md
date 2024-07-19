@@ -86,7 +86,7 @@ Access IntelliApp at **localhost:8501** in your browser.
 - **Input**: Select an image file and click "Generate Caption."
 - **Example**: Upload a photo of a beach.
 
-![Image Captioning Screenshot](images/img-002.jpeg)
+![Image Captioning Screenshot](images/img-002.png)
 
 ### Embed Text
 
