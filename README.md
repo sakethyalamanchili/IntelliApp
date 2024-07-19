@@ -25,7 +25,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/intelliapp.git
+   git clone https://github.com/sakethyalamanchili/IntelliApp.git
    cd intelliapp
    ```
 
